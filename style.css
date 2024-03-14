@@ -95,33 +95,36 @@ header {
     }
 
     .img-logo {
-        display: block;
+        display: flex;
         position: static;
         width: 90%;
         height: auto;
-        margin: auto auto;
+        margin: 149px auto 24px auto;
     }
     
     h1 {
-        display: block;
+        display: flex;
         font-size: 50px;
         line-height: 60.95px;
         width: auto;
-        margin: auto auto;
+        margin: 0 auto;
+        text-align: center;
     }
 
     h2 {
-        display: inline-block;
+        display: flex;
         font-size: 30px;
         line-height: 36.57px;
         width: auto;
-        margin: 17px 74px;
+        margin: 10px auto;
         text-align: center;
     }
 
     .button-main {
         display: block;
-        margin: 0 auto;
+        margin: 20px 84px auto 10px;
+        text-align: center;
+        align-items: center;
     }
 
 }
