@@ -1,7 +1,7 @@
 <h1>Petshop We Care</h1>
 <br>
 <br>
-<a href="https://beatriz-cirqueira.github.io/Wide-Coverage-location/">Click here to visit the site of the project!</a>
+<a href="https://beatriz-cirqueira.github.io/Petshop-We-Care/">Click here to visit the site of the project!</a>
 <br>
 <br>
 <p align="center">
@@ -11,13 +11,13 @@
 </p>
 <br>
 <br>
-<img src="https://github.com/beatriz-cirqueira/Wide-Coverage-location/blob/master/mockup-wide-coverage-location.png?raw=true"/>
+<img src="https://github.com/beatriz-cirqueira/Petshop-We-Care/blob/master/mockup-we-care.png?raw=true"/>
 <br>
 <br>
 
 ## :house: About the project
 
-<p>This was a very difficult project in my learning of FrontEnd Development, because I made it thinking only in the desktop experience at first. Then, having learned about the importance of making reponsives projects, I had the mission of applying the knowledge in this project. It made very clear to me about the importance of think first in the mobile experience. I made it with my mentor Rodolfo Mori in DevClub's course Full Stack Pro.</p>
+<p>This was a another project in my learning of FrontEnd Development, made at first only for the desktop experience. Then, having learned the process of making reponsives projects, I had the mission of applying the knowledge in this project. This one was a bit easier, but also made very clear to me how important is to think first in the mobile experience. I made it with my mentor Rodolfo Mori in DevClub's course Full Stack Pro.</p>
 
 ## :wrench: Technologies
 
